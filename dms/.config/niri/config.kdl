@@ -1,0 +1,32 @@
+// ============================================================================
+// NIRI CONFIGURATION - Base for iNiR (ii)
+// ============================================================================
+// Minimal base config - customize to your needs
+// Wiki: https://github.com/YaLTeR/niri/wiki/Configuration:-Introduction
+// ============================================================================
+
+prefer-no-csd
+
+hotkey-overlay {
+    skip-at-startup
+}
+
+screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
+
+include "config.d/10-input-and-cursor.kdl"
+
+include "config.d/20-layout-and-overview.kdl"
+
+include "config.d/30-window-rules.kdl"
+
+include "config.d/40-environment.kdl"
+
+include "config.d/50-startup.kdl"
+
+include "config.d/60-animations.kdl"
+
+include "config.d/70-binds.kdl"
+
+include "config.d/80-layer-rules.kdl"
+
+include "config.d/90-user-extra.kdl"

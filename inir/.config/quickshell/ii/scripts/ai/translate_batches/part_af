@@ -1,0 +1,500 @@
+{"key":"Bluetooth","value":"Bluetooth"}
+{"key":"How long normal notifications stay visible","value":"How long normal notifications stay visible"}
+{"key":"Launch","value":"Launch"}
+{"key":"Button areas","value":"Button areas"}
+{"key":"Screen record button","value":"Screen record button"}
+{"key":"Keep changes","value":"Keep changes"}
+{"key":"Power off, reboot, logout, suspend","value":"Power off, reboot, logout, suspend"}
+{"key":"Border coverage","value":"Border coverage"}
+{"key":"15 min","value":"15 min"}
+{"key":"Get the next page of results","value":"Get the next page of results"}
+{"key":"Invalid package name","value":"Invalid package name"}
+{"key":"Configure cryptocurrencies to track","value":"Configure cryptocurrencies to track"}
+{"key":"Turn off screen after inactivity (0 = never)","value":"Turn off screen after inactivity (0 = never)"}
+{"key":"Week Calendar","value":"Week Calendar"}
+{"key":"Tap button map","value":"Tap button map"}
+{"key":"Shadow softness, spread, offset and color","value":"Shadow softness, spread, offset and color"}
+{"key":"Hot","value":"Hot"}
+{"key":"Next Track","value":"Next Track"}
+{"key":"System sound","value":"System sound"}
+{"key":"Show a confirmation dialog when pressing Super+Q","value":"Show a confirmation dialog when pressing Super+Q"}
+{"key":"Reference","value":"Reference"}
+{"key":"Center the Super+Space launcher vertically. Disables top/bottom margin adjustments while enabled","value":"Center the Super+Space launcher vertically. Disables top/bottom margin adjustments while enabled"}
+{"key":"Variable Font Axes","value":"Variable Font Axes"}
+{"key":"Show window previews","value":"Show window previews"}
+{"key":"Apply blur effect to video/GIF wallpapers. Has performance impact - disable if you experience lag","value":"Apply blur effect to video/GIF wallpapers. Has performance impact - disable if you experience lag"}
+{"key":"Switch to Dark Mode","value":"Switch to Dark Mode"}
+{"key":"Repeat One","value":"Repeat One"}
+{"key":"Widgets panel settings","value":"Widgets panel settings"}
+{"key":"Switched to search mode. Continue with the user's request.","value":"Switched to search mode. Continue with the user's request."}
+{"key":"Paused","value":"Paused"}
+{"key":"Glow Effects","value":"Glow Effects"}
+{"key":"Use varying shapes for password characters","value":"Use varying shapes for password characters"}
+{"key":"Auto-hide delay after selection (ms)","value":"Auto-hide delay after selection (ms)"}
+{"key":"Dismiss update (hide bar indicator)","value":"Dismiss update (hide bar indicator)"}
+{"key":"Open system monitor","value":"Open system monitor"}
+{"key":"Vertical","value":"Vertical"}
+{"key":"Config file","value":"Config file"}
+{"key":"Edge","value":"Edge"}
+{"key":"Padding around the selected circle region","value":"Padding around the selected circle region"}
+{"key":"Next week","value":"Next week"}
+{"key":"Play videos and GIFs as wallpaper. When disabled, shows a frozen frame (better performance)","value":"Play videos and GIFs as wallpaper. When disabled, shows a frozen frame (better performance)"}
+{"key":"Misc","value":"Misc"}
+{"key":"Low contrast - may be hard to read","value":"Low contrast - may be hard to read"}
+{"key":"Open config file","value":"Open config file"}
+{"key":"Local only","value":"Local only"}
+{"key":"Enable or disable shell modules. Changes apply live.","value":"Enable or disable shell modules. Changes apply live."}
+{"key":"Show reload toasts","value":"Show reload toasts"}
+{"key":"Shadow spread","value":"Shadow spread"}
+{"key":"Quality","value":"Quality"}
+{"key":"Editors","value":"Editors"}
+{"key":"Library","value":"Library"}
+{"key":"Float","value":"Float"}
+{"key":"Play video and GIF wallpapers on the lock screen instead of showing a still frame. May increase GPU/battery usage.","value":"Play video and GIF wallpapers on the lock screen instead of showing a still frame. May increase GPU/battery usage."}
+{"key":"Add to Liked","value":"Add to Liked"}
+{"key":"Browse for more...","value":"Browse for more..."}
+{"key":"Rate (chars/s)","value":"Rate (chars/s)"}
+{"key":"Used by Ethernet-oriented settings shortcuts.","value":"Used by Ethernet-oriented settings shortcuts."}
+{"key":"Mute notifications","value":"Mute notifications"}
+{"key":"Theme schedule","value":"Theme schedule"}
+{"key":"Color saturation","value":"Color saturation"}
+{"key":"Automatically hide the bar","value":"Automatically hide the bar"}
+{"key":"Loaded the following system prompt\n\n---\n\n%1","value":"Loaded the following system prompt\n\n---\n\n%1"}
+{"key":"AV1 (GPU / VAAPI)","value":"AV1 (GPU / VAAPI)"}
+{"key":"Paste multiple clipboard entries (args: NUM[i] — e.g. 4i for images)","value":"Paste multiple clipboard entries (args: NUM[i] — e.g. 4i for images)"}
+{"key":"Set a random wallpaper from the current folder for this monitor","value":"Set a random wallpaper from the current folder for this monitor"}
+{"key":"Bar weather","value":"Bar weather"}
+{"key":"Total duration timeout (s)","value":"Total duration timeout (s)"}
+{"key":"Text scale","value":"Text scale"}
+{"key":"Utilities","value":"Utilities"}
+{"key":"Session","value":"Session"}
+{"key":"Show seconds","value":"Show seconds"}
+{"key":"Coverflow mode","value":"Coverflow mode"}
+{"key":"Search clipboard...","value":"Search clipboard..."}
+{"key":"Display settings saved.","value":"Display settings saved."}
+{"key":"Browse","value":"Browse"}
+{"key":"Show microphone input level slider","value":"Show microphone input level slider"}
+{"key":"Terminal, file manager, browser commands","value":"Terminal, file manager, browser commands"}
+{"key":"Wallpaper blur radius","value":"Wallpaper blur radius"}
+{"key":"windows","value":"windows"}
+{"key":"Next month","value":"Next month"}
+{"key":"Events & Reminders","value":"Events & Reminders"}
+{"key":"Emojis","value":"Emojis"}
+{"key":"Notification timeout","value":"Notification timeout"}
+{"key":"Set FPS limit","value":"Set FPS limit"}
+{"key":"Thumbnails ready","value":"Thumbnails ready"}
+{"key":"Quality preset","value":"Quality preset"}
+{"key":"Focus follows mouse","value":"Focus follows mouse"}
+{"key":"Allow opening sidebars by interacting with screen corners","value":"Allow opening sidebars by interacting with screen corners"}
+{"key":"Backdrop (Overview)","value":"Backdrop (Overview)"}
+{"key":"Last updated","value":"Last updated"}
+{"key":"Scientific (S)","value":"Scientific (S)"}
+{"key":"Update the wallpaper clock every second","value":"Update the wallpaper clock every second"}
+{"key":"Show update icon in bar when available updates exceed this number","value":"Show update icon in bar when available updates exceed this number"}
+{"key":"Client ID","value":"Client ID"}
+{"key":"Shrink the tiling area by this many pixels from each edge","value":"Shrink the tiling area by this many pixels from each edge"}
+{"key":"Use a fullscreen coverflow carousel instead of the grid picker.\nNavigate with arrow keys or mouse wheel.","value":"Use a fullscreen coverflow carousel instead of the grid picker.\nNavigate with arrow keys or mouse wheel."}
+{"key":"Network / Wi-Fi","value":"Network / Wi-Fi"}
+{"key":"Focus","value":"Focus"}
+{"key":"Color gen, performance","value":"Color gen, performance"}
+{"key":"Enable now","value":"Enable now"}
+{"key":"Taskbar appearance and behavior","value":"Taskbar appearance and behavior"}
+{"key":"Refresh rate","value":"Refresh rate"}
+{"key":"Reset","value":"Reset"}
+{"key":"Show warning color when available updates exceed this number","value":"Show warning color when available updates exceed this number"}
+{"key":"This is usually safe and needed for your browser and AI sidebar anyway\nMostly useful for those who use lock on startup instead of a display manager that does it (GDM, SDDM, etc.)","value":"This is usually safe and needed for your browser and AI sidebar anyway\nMostly useful for those who use lock on startup instead of a display manager that does it (GDM, SDDM, etc.)"}
+{"key":"Select a wallpaper","value":"Select a wallpaper"}
+{"key":"Preferred codec","value":"Preferred codec"}
+{"key":"Color tone","value":"Color tone"}
+{"key":"Dots","value":"Dots"}
+{"key":"H.265 / HEVC (GPU / VAAPI)","value":"H.265 / HEVC (GPU / VAAPI)"}
+{"key":"Use the new Card style (lighter background, specific rounding) generic to settings","value":"Use the new Card style (lighter background, specific rounding) generic to settings"}
+{"key":"Use vertical bar layout on the side","value":"Use vertical bar layout on the side"}
+{"key":"Large images | God tier quality, no NSFW.","value":"Large images | God tier quality, no NSFW."}
+{"key":"Use your device's built-in battery conservation mode (requires polkit)","value":"Use your device's built-in battery conservation mode (requires polkit)"}
+{"key":"Hide notification popups while Game Mode is active","value":"Hide notification popups while Game Mode is active"}
+{"key":"Saved Themes","value":"Saved Themes"}
+{"key":"Power","value":"Power"}
+{"key":"Render device","value":"Render device"}
+{"key":"Priority","value":"Priority"}
+{"key":"Calendar","value":"Calendar"}
+{"key":"Branch","value":"Branch"}
+{"key":"Search settings... (Ctrl+F)","value":"Search settings... (Ctrl+F)"}
+{"key":"Window preview","value":"Window preview"}
+{"key":"Uptime","value":"Uptime"}
+{"key":"Fidelity","value":"Fidelity"}
+{"key":"Taskbar settings","value":"Taskbar settings"}
+{"key":"Dismiss all","value":"Dismiss all"}
+{"key":"UV","value":"UV"}
+{"key":"Extra dim with windows","value":"Extra dim with windows"}
+{"key":"Main font, title font, monospace font and size","value":"Main font, title font, monospace font and size"}
+{"key":"Wallpaper position","value":"Wallpaper position"}
+{"key":"Toggle dock panel","value":"Toggle dock panel"}
+{"key":"Key combination","value":"Key combination"}
+{"key":"Game Mode","value":"Game Mode"}
+{"key":"Screen off timeout","value":"Screen off timeout"}
+{"key":"Up to date","value":"Up to date"}
+{"key":"Notification Popups","value":"Notification Popups"}
+{"key":"Dim (%)","value":"Dim (%)"}
+{"key":"Press Super+/ for all keyboard shortcuts.","value":"Press Super+/ for all keyboard shortcuts."}
+{"key":"Grade","value":"Grade"}
+{"key":"App launcher","value":"App launcher"}
+{"key":"Prevent sudden volume spikes","value":"Prevent sudden volume spikes"}
+{"key":"Copied to clipboard!","value":"Copied to clipboard!"}
+{"key":"Volume limit","value":"Volume limit"}
+{"key":"Window Management","value":"Window Management"}
+{"key":"Date scale (%)","value":"Date scale (%)"}
+{"key":"Setup","value":"Setup"}
+{"key":"Hide sussy/anime wallpapers","value":"Hide sussy/anime wallpapers"}
+{"key":"Clip windows","value":"Clip windows"}
+{"key":"Previewing scale %1x","value":"Previewing scale %1x"}
+{"key":"Window border","value":"Window border"}
+{"key":"Apply accent color to taskbar icons","value":"Apply accent color to taskbar icons"}
+{"key":"Custom lock screen with clock and password input","value":"Custom lock screen with clock and password input"}
+{"key":"Open the shell config file\nAlternatively right-click to copy path","value":"Open the shell config file\nAlternatively right-click to copy path"}
+{"key":"Settings UI","value":"Settings UI"}
+{"key":"Be patient...","value":"Be patient..."}
+{"key":"Background dim animation (ms)","value":"Background dim animation (ms)"}
+{"key":"Previous Track","value":"Previous Track"}
+{"key":"Steam (Adwaita for Steam)","value":"Steam (Adwaita for Steam)"}
+{"key":"Overlay appearance","value":"Overlay appearance"}
+{"key":"Report a Bug","value":"Report a Bug"}
+{"key":"In use","value":"In use"}
+{"key":"Night Light | Right-click to configure","value":"Night Light | Right-click to configure"}
+{"key":"Fake screen rounding","value":"Fake screen rounding"}
+{"key":"Reboot to firmware settings","value":"Reboot to firmware settings"}
+{"key":"Re-detect installed","value":"Re-detect installed"}
+{"key":"Reset adjustments","value":"Reset adjustments"}
+{"key":"Used by shell actions, keybinds, package commands, and terminal-backed launchers.","value":"Used by shell actions, keybinds, package commands, and terminal-backed launchers."}
+{"key":"Show the desktop clock widget","value":"Show the desktop clock widget"}
+{"key":"Complementary accent for variety","value":"Complementary accent for variety"}
+{"key":"Run","value":"Run"}
+{"key":"The name your hotspot will broadcast","value":"The name your hotspot will broadcast"}
+{"key":"Folder","value":"Folder"}
+{"key":"Skew previews","value":"Skew previews"}
+{"key":"Floating desktop overlay widgets","value":"Floating desktop overlay widgets"}
+{"key":"Use main wallpaper","value":"Use main wallpaper"}
+{"key":"Use the Material ii panel layout","value":"Use the Material ii panel layout"}
+{"key":"Unmuted","value":"Unmuted"}
+{"key":"Keyboard hints","value":"Keyboard hints"}
+{"key":"Failed to start warp-svc. You may need to run: <tt>sudo systemctl start warp-svc</tt>","value":"Failed to start warp-svc. You may need to run: <tt>sudo systemctl start warp-svc</tt>"}
+{"key":"Collapse","value":"Collapse"}
+{"key":"Display quick action buttons","value":"Display quick action buttons"}
+{"key":"Small radius","value":"Small radius"}
+{"key":"No items in this location","value":"No items in this location"}
+{"key":"Elastic","value":"Elastic"}
+{"key":"Always show GPU","value":"Always show GPU"}
+{"key":"Mouse scrolling","value":"Mouse scrolling"}
+{"key":"Session Screen","value":"Session Screen"}
+{"key":"Enable wallpaper transitions","value":"Enable wallpaper transitions"}
+{"key":"Maximum width of the overview panel as screen percentage","value":"Maximum width of the overview panel as screen percentage"}
+{"key":"Paste a URL — name and icon are fetched automatically","value":"Paste a URL — name and icon are fetched automatically"}
+{"key":"Instant switch — no visible transition.","value":"Instant switch — no visible transition."}
+{"key":"Temperature","value":"Temperature"}
+{"key":"Configure the header with time and quick indicators","value":"Configure the header with time and quick indicators"}
+{"key":"Transcribing...","value":"Transcribing..."}
+{"key":"Show which window is focused in the dock","value":"Show which window is focused in the dock"}
+{"key":"Optional","value":"Optional"}
+{"key":"Pixelate","value":"Pixelate"}
+{"key":"Reveal","value":"Reveal"}
+{"key":"Thickness of the circle selection stroke","value":"Thickness of the circle selection stroke"}
+{"key":"Anime","value":"Anime"}
+{"key":"Desktop wallpaper","value":"Desktop wallpaper"}
+{"key":"Changes here will apply when you switch the panel family back to Windows 11 (Waffle).","value":"Changes here will apply when you switch the panel family back to Windows 11 (Waffle)."}
+{"key":"Notify when battery reaches this level while charging (101 = disabled)","value":"Notify when battery reaches this level while charging (101 = disabled)"}
+{"key":"Not secured","value":"Not secured"}
+{"key":"Circle selection","value":"Circle selection"}
+{"key":"Network manager (TUI)","value":"Network manager (TUI)"}
+{"key":"H.264 (GPU / VAAPI)","value":"H.264 (GPU / VAAPI)"}
+{"key":"Recent History","value":"Recent History"}
+{"key":"Wrap around","value":"Wrap around"}
+{"key":"Type /key to get started with online models\nCtrl+O to expand the sidebar\nCtrl+P to detach sidebar into a window","value":"Type /key to get started with online models\nCtrl+O to expand the sidebar\nCtrl+P to detach sidebar into a window"}
+{"key":"Extra wallpaper zoom (%)","value":"Extra wallpaper zoom (%)"}
+{"key":"Previewing %1","value":"Previewing %1"}
+{"key":"Wheel steps per workspace (Overview)","value":"Wheel steps per workspace (Overview)"}
+{"key":"Emoji","value":"Emoji"}
+{"key":"Window Gaps","value":"Window Gaps"}
+{"key":"Popup mode","value":"Popup mode"}
+{"key":"Current System","value":"Current System"}
+{"key":"Focus Ring","value":"Focus Ring"}
+{"key":"Night","value":"Night"}
+{"key":"Resources","value":"Resources"}
+{"key":"Color Harmony","value":"Color Harmony"}
+{"key":"Show dock","value":"Show dock"}
+{"key":"Mute YT Music Up Next notifications during fullscreen apps or GameMode","value":"Mute YT Music Up Next notifications during fullscreen apps or GameMode"}
+{"key":"Pause","value":"Pause"}
+{"key":"Screen recording: Active","value":"Screen recording: Active"}
+{"key":"Widgets","value":"Widgets"}
+{"key":"Do not disturb is on","value":"Do not disturb is on"}
+{"key":"Always","value":"Always"}
+{"key":"Increase screen brightness","value":"Increase screen brightness"}
+{"key":"Listening...","value":"Listening..."}
+{"key":"Accent","value":"Accent"}
+{"key":"Disconnect failed. Please inspect manually with the <tt>warp-cli</tt> command","value":"Disconnect failed. Please inspect manually with the <tt>warp-cli</tt> command"}
+{"key":"Centered focus","value":"Centered focus"}
+{"key":"Enable vertical parallax movement based on mouse position","value":"Enable vertical parallax movement based on mouse position"}
+{"key":"Bar Style","value":"Bar Style"}
+{"key":"RAM warning (%)","value":"RAM warning (%)"}
+{"key":"Weight","value":"Weight"}
+{"key":"Controls how see-through each UI layer is. Higher = more transparent. Combined with overlay tint above to control glass appearance.","value":"Controls how see-through each UI layer is. Higher = more transparent. Combined with overlay tint above to control glass appearance."}
+{"key":"Vesktop/Discord theming","value":"Vesktop/Discord theming"}
+{"key":"Night theme","value":"Night theme"}
+{"key":"Get Started","value":"Get Started"}
+{"key":"Clip windows to their workspace bounds","value":"Clip windows to their workspace bounds"}
+{"key":"Try another folder, go up one level, or clear the current search.","value":"Try another folder, go up one level, or clear the current search."}
+{"key":"Waffle background","value":"Waffle background"}
+{"key":"Anti-flashbang (experimental)","value":"Anti-flashbang (experimental)"}
+{"key":"Devices","value":"Devices"}
+{"key":"with vertical offset","value":"with vertical offset"}
+{"key":"Digital clock settings","value":"Digital clock settings"}
+{"key":"Context Info","value":"Context Info"}
+{"key":"Scroll to switch workspaces","value":"Scroll to switch workspaces"}
+{"key":"Dock height (px)","value":"Dock height (px)"}
+{"key":"Click to install via %1","value":"Click to install via %1"}
+{"key":"Edit quick toggles","value":"Edit quick toggles"}
+{"key":"Regenerate","value":"Regenerate"}
+{"key":"Translator","value":"Translator"}
+{"key":"Run './setup doctor' in your terminal to diagnose the issue, or use the diagnose command below.","value":"Run './setup doctor' in your terminal to diagnose the issue, or use the diagnose command below."}
+{"key":"Simple","value":"Simple"}
+{"key":"Theme source only","value":"Theme source only"}
+{"key":"Resume","value":"Resume"}
+{"key":"Controls how vivid wallpaper-derived accent colors are","value":"Controls how vivid wallpaper-derived accent colors are"}
+{"key":"Toggle button to start/stop Niri dynamic casting (screen mirroring) to a target output.","value":"Toggle button to start/stop Niri dynamic casting (screen mirroring) to a target output."}
+{"key":"General","value":"General"}
+{"key":"Go to today","value":"Go to today"}
+{"key":"<i>No further instruction provided</i>","value":"<i>No further instruction provided</i>"}
+{"key":"Online models disallowed\n\nControlled by `policies.ai` config option","value":"Online models disallowed\n\nControlled by `policies.ai` config option"}
+{"key":"Syncing...","value":"Syncing..."}
+{"key":"Dashboard panel","value":"Dashboard panel"}
+{"key":"Parallax","value":"Parallax"}
+{"key":"Bar module layout","value":"Bar module layout"}
+{"key":"Feels %1","value":"Feels %1"}
+{"key":"Choose whether new columns open normally or in tabbed mode.","value":"Choose whether new columns open normally or in tabbed mode."}
+{"key":"Birthday","value":"Birthday"}
+{"key":"Horizontal bar with clock, workspaces, system tray and utilities","value":"Horizontal bar with clock, workspaces, system tray and utilities"}
+{"key":"Suspend","value":"Suspend"}
+{"key":"Animate wallpaper swaps only for Waffle's own wallpaper","value":"Animate wallpaper swaps only for Waffle's own wallpaper"}
+{"key":"Circle to Search","value":"Circle to Search"}
+{"key":"Apply blur effect to the lock screen background","value":"Apply blur effect to the lock screen background"}
+{"key":"Panels, dialogs, large containers","value":"Panels, dialogs, large containers"}
+{"key":"Number of columns in the app launcher grid","value":"Number of columns in the app launcher grid"}
+{"key":"Bottom overlay","value":"Bottom overlay"}
+{"key":"Images","value":"Images"}
+{"key":"Recording, crosshair, overlays","value":"Recording, crosshair, overlays"}
+{"key":"Workspaces","value":"Workspaces"}
+{"key":"Sign out","value":"Sign out"}
+{"key":"Auto-expand a single tiling window","value":"Auto-expand a single tiling window"}
+{"key":"Heavy rain","value":"Heavy rain"}
+{"key":"Sunny","value":"Sunny"}
+{"key":"Number of columns for the Android-style quick settings grid","value":"Number of columns for the Android-style quick settings grid"}
+{"key":"Animation","value":"Animation"}
+{"key":"Mode","value":"Mode"}
+{"key":"Depends on workspace","value":"Depends on workspace"}
+{"key":"Critically low battery","value":"Critically low battery"}
+{"key":"Pin to taskbar","value":"Pin to taskbar"}
+{"key":"Highlight UI layers as selectable regions","value":"Highlight UI layers as selectable regions"}
+{"key":"APPLY","value":"APPLY"}
+{"key":"Add","value":"Add"}
+{"key":"24h","value":"24h"}
+{"key":"navigate","value":"navigate"}
+{"key":"Visual tuning","value":"Visual tuning"}
+{"key":"Animate window selection with a slide effect","value":"Animate window selection with a slide effect"}
+{"key":"Primary monitor","value":"Primary monitor"}
+{"key":"Saturation intensity of terminal colors from wallpaper","value":"Saturation intensity of terminal colors from wallpaper"}
+{"key":"Load:","value":"Load:"}
+{"key":"Screen crosshair overlay for aiming","value":"Screen crosshair overlay for aiming"}
+{"key":"Fruit Salad","value":"Fruit Salad"}
+{"key":"Blur & Glass","value":"Blur & Glass"}
+{"key":"Anchor","value":"Anchor"}
+{"key":"Wallpaper Colors","value":"Wallpaper Colors"}
+{"key":"Personal Wi-Fi Hotspot","value":"Personal Wi-Fi Hotspot"}
+{"key":"Widget: Clock","value":"Widget: Clock"}
+{"key":"Layout & alignment","value":"Layout & alignment"}
+{"key":"Optional XKB variant, for example colemak_dh or nodeadkeys.","value":"Optional XKB variant, for example colemak_dh or nodeadkeys."}
+{"key":"Horizontal size of the active corner area","value":"Horizontal size of the active corner area"}
+{"key":"Show overview only on the currently focused screen (multi-monitor)","value":"Show overview only on the currently focused screen (multi-monitor)"}
+{"key":"Surface Borders","value":"Surface Borders"}
+{"key":"Preview (Space)","value":"Preview (Space)"}
+{"key":"Show lock status","value":"Show lock status"}
+{"key":"Custom Cookies File","value":"Custom Cookies File"}
+{"key":"Rows","value":"Rows"}
+{"key":"Apply Material You colors to YouTube Music Desktop App","value":"Apply Material You colors to YouTube Music Desktop App"}
+{"key":"No wallpaper set","value":"No wallpaper set"}
+{"key":"Per window","value":"Per window"}
+{"key":"Delete","value":"Delete"}
+{"key":"Cancel wallpaper selection","value":"Cancel wallpaper selection"}
+{"key":"Open folder","value":"Open folder"}
+{"key":"Screen snip","value":"Screen snip"}
+{"key":"Top Airing","value":"Top Airing"}
+{"key":"Size of the invisible area at screen edge that triggers dock reveal","value":"Size of the invisible area at screen edge that triggers dock reveal"}
+{"key":"Select Browser","value":"Select Browser"}
+{"key":"Single Alt+Tab switches instantly without UI","value":"Single Alt+Tab switches instantly without UI"}
+{"key":"Clear filter","value":"Clear filter"}
+{"key":"Sunset","value":"Sunset"}
+{"key":"Corner open","value":"Corner open"}
+{"key":"Reset clock settings to defaults","value":"Reset clock settings to defaults"}
+{"key":"Zoom level for the background wallpaper when blur is enabled","value":"Zoom level for the background wallpaper when blur is enabled"}
+{"key":"Icon","value":"Icon"}
+{"key":"Use Material wallpaper","value":"Use Material wallpaper"}
+{"key":"All-rounder | Good quality, decent quantity","value":"All-rounder | Good quality, decent quantity"}
+{"key":"Random","value":"Random"}
+{"key":"Turn on at","value":"Turn on at"}
+{"key":"Search packages","value":"Search packages"}
+{"key":"Wallpaper zoom (%)","value":"Wallpaper zoom (%)"}
+{"key":"Date style","value":"Date style"}
+{"key":"Exceeded max allowed","value":"Exceeded max allowed"}
+{"key":"Audio quality for playback — lower quality uses less bandwidth","value":"Audio quality for playback — lower quality uses less bandwidth"}
+{"key":"12h","value":"12h"}
+{"key":"Secured","value":"Secured"}
+{"key":"Compact cards","value":"Compact cards"}
+{"key":"No images found","value":"No images found"}
+{"key":"Keybinds loaded from config","value":"Keybinds loaded from config"}
+{"key":"Overview zoom","value":"Overview zoom"}
+{"key":"Lock screen","value":"Lock screen"}
+{"key":"Widget spacing","value":"Widget spacing"}
+{"key":"Rounded Cards","value":"Rounded Cards"}
+{"key":"Generate Discord theme from wallpaper colors","value":"Generate Discord theme from wallpaper colors"}
+{"key":"Family Transition","value":"Family Transition"}
+{"key":"Flipped 90°","value":"Flipped 90°"}
+{"key":"Cookie clock settings","value":"Cookie clock settings"}
+{"key":"Show bar indicator again","value":"Show bar indicator again"}
+{"key":"Maximum volume","value":"Maximum volume"}
+{"key":"All apps","value":"All apps"}
+{"key":"Enable opening zoom animation","value":"Enable opening zoom animation"}
+{"key":"Close window","value":"Close window"}
+{"key":"Anime and manga content visibility","value":"Anime and manga content visibility"}
+{"key":"Sidebars","value":"Sidebars"}
+{"key":"Focus ring width","value":"Focus ring width"}
+{"key":"Use current folder","value":"Use current folder"}
+{"key":"VAAPI-compatible render devices detected. AMD/Intel GPU encoding is available.","value":"VAAPI-compatible render devices detected. AMD/Intel GPU encoding is available."}
+{"key":"Open Settings as floating overlay inside shell for live preview","value":"Open Settings as floating overlay inside shell for live preview"}
+{"key":"Maximum charge percentage","value":"Maximum charge percentage"}
+{"key":"See fewer","value":"See fewer"}
+{"key":"Center clock","value":"Center clock"}
+{"key":"Export Theme","value":"Export Theme"}
+{"key":"Reset to global","value":"Reset to global"}
+{"key":"Switch to Aurora style","value":"Switch to Aurora style"}
+{"key":"%1 monitors detected","value":"%1 monitors detected"}
+{"key":"Space between widgets in pixels","value":"Space between widgets in pixels"}
+{"key":"Fully charged","value":"Fully charged"}
+{"key":"Unknown device","value":"Unknown device"}
+{"key":"Playback failed","value":"Playback failed"}
+{"key":"Waffle window switcher with thumbnails","value":"Waffle window switcher with thumbnails"}
+{"key":"Toggle Media Controls","value":"Toggle Media Controls"}
+{"key":"Crosshair","value":"Crosshair"}
+{"key":"Screen Corners","value":"Screen Corners"}
+{"key":"Reset position and zoom","value":"Reset position and zoom"}
+{"key":"Search wallpapers from wallhaven.cc\nUse #tag for tag autocomplete and multi-word searches\nExample: #xenoblade chronicles\nTip: Tab/Enter accepts the selected suggestion\nUse %1safe or %2lewd to toggle NSFW (requires API key)\nUse %1top, %1topw, %1latest, %1random for listing modes","value":"Search wallpapers from wallhaven.cc\nUse #tag for tag autocomplete and multi-word searches\nExample: #xenoblade chronicles\nTip: Tab/Enter accepts the selected suggestion\nUse %1safe or %2lewd to toggle NSFW (requires API key)\nUse %1top, %1topw, %1latest, %1random for listing modes"}
+{"key":"Default output monitor captures desktop audio.","value":"Default output monitor captures desktop audio."}
+{"key":"Left sidebar button","value":"Left sidebar button"}
+{"key":"Update Now","value":"Update Now"}
+{"key":"Clock effects","value":"Clock effects"}
+{"key":"Copied","value":"Copied"}
+{"key":"Characters per second when a key is held","value":"Characters per second when a key is held"}
+{"key":"Analogous","value":"Analogous"}
+{"key":"/ or Ctrl+F: search","value":"/ or Ctrl+F: search"}
+{"key":"Switch to Light Mode","value":"Switch to Light Mode"}
+{"key":"Ring width","value":"Ring width"}
+{"key":"Help & Support","value":"Help & Support"}
+{"key":"Acceleration speed. Negative = slower, positive = faster.","value":"Acceleration speed. Negative = slower, positive = faster."}
+{"key":"Good night","value":"Good night"}
+{"key":"Show numbers instead of only when Super is held","value":"Show numbers instead of only when Super is held"}
+{"key":"Slightly enlarge notifications when the mouse hovers over them","value":"Slightly enlarge notifications when the mouse hovers over them"}
+{"key":"Remove keybind","value":"Remove keybind"}
+{"key":"Allows you to open sidebars by clicking or hovering screen corners regardless of bar position","value":"Allows you to open sidebars by clicking or hovering screen corners regardless of bar position"}
+{"key":"Selecting backdrop wallpaper","value":"Selecting backdrop wallpaper"}
+{"key":"Keyboard shortcuts from Niri config","value":"Keyboard shortcuts from Niri config"}
+{"key":"Hit Preview to generate","value":"Hit Preview to generate"}
+{"key":"Popup position","value":"Popup position"}
+{"key":"Unmute","value":"Unmute"}
+{"key":"Time scale (%)","value":"Time scale (%)"}
+{"key":"Clickable when pinned","value":"Clickable when pinned"}
+{"key":"Clock font","value":"Clock font"}
+{"key":"Show desktop when hovering the corner button","value":"Show desktop when hovering the corner button"}
+{"key":"Minimum color difference before harmonization is applied","value":"Minimum color difference before harmonization is applied"}
+{"key":"Choose known app presets for common shell actions, or switch a slot to a custom command when you need something more specific.","value":"Choose known app presets for common shell actions, or switch a slot to a custom command when you need something more specific."}
+{"key":"Start menu size and behavior","value":"Start menu size and behavior"}
+{"key":"No active player","value":"No active player"}
+{"key":"Switch windows without showing overlay","value":"Switch windows without showing overlay"}
+{"key":"Low","value":"Low"}
+{"key":"Related settings","value":"Related settings"}
+{"key":"Use old sine wave cookie implementation","value":"Use old sine wave cookie implementation"}
+{"key":"Show modified files","value":"Show modified files"}
+{"key":"Backdrop blur radius","value":"Backdrop blur radius"}
+{"key":"Do Not Disturb is on","value":"Do Not Disturb is on"}
+{"key":"In-game crosshair overlay","value":"In-game crosshair overlay"}
+{"key":"Volume mixer","value":"Volume mixer"}
+{"key":"Gap between windows inside a workspace preview","value":"Gap between windows inside a workspace preview"}
+{"key":"Keep these display settings?","value":"Keep these display settings?"}
+{"key":"Kill conflicting programs?","value":"Kill conflicting programs?"}
+{"key":"Focus behavior","value":"Focus behavior"}
+{"key":"Configured","value":"Configured"}
+{"key":"Double-click a theme to apply it reliably. A single click may not always trigger the full color generation.","value":"Double-click a theme to apply it reliably. A single click may not always trigger the full color generation."}
+{"key":"Play sound for incoming notifications","value":"Play sound for incoming notifications"}
+{"key":"Enable backdrop","value":"Enable backdrop"}
+{"key":"Select recordings folder","value":"Select recordings folder"}
+{"key":"Overlay mode","value":"Overlay mode"}
+{"key":"Free:","value":"Free:"}
+{"key":"Switch to compact layout","value":"Switch to compact layout"}
+{"key":"Add subreddit...","value":"Add subreddit..."}
+{"key":"Rounded corner overlays for screens without hardware rounding","value":"Rounded corner overlays for screens without hardware rounding"}
+{"key":"Show random wallpapers","value":"Show random wallpapers"}
+{"key":"Native Waffle colors","value":"Native Waffle colors"}
+{"key":"Leave empty to auto-detect from IP","value":"Leave empty to auto-detect from IP"}
+{"key":"Vertical bar","value":"Vertical bar"}
+{"key":"Angel","value":"Angel"}
+{"key":"Terminal: Harmonize threshold","value":"Terminal: Harmonize threshold"}
+{"key":"Element appearance","value":"Element appearance"}
+{"key":"Position","value":"Position"}
+{"key":"Connection Options","value":"Connection Options"}
+{"key":"Amount of blur applied to the backdrop layer","value":"Amount of blur applied to the backdrop layer"}
+{"key":"Sort by date","value":"Sort by date"}
+{"key":"Failed to preview display change.","value":"Failed to preview display change."}
+{"key":"Show NSFW","value":"Show NSFW"}
+{"key":"Left-handed","value":"Left-handed"}
+{"key":"Reminder","value":"Reminder"}
+{"key":"Chat with AI assistants (OpenAI, Gemini, local models)","value":"Chat with AI assistants (OpenAI, Gemini, local models)"}
+{"key":"Play videos and GIFs as wallpaper. When disabled, shows thumbnail instead (better performance)","value":"Play videos and GIFs as wallpaper. When disabled, shows thumbnail instead (better performance)"}
+{"key":"Center on screen","value":"Center on screen"}
+{"key":"Sorting set to toplist (1M)","value":"Sorting set to toplist (1M)"}
+{"key":"No upcoming events","value":"No upcoming events"}
+{"key":"Max volume increase","value":"Max volume increase"}
+{"key":"Quote","value":"Quote"}
+{"key":"See fewer (+%1 more)","value":"See fewer (+%1 more)"}
+{"key":"Workspace switch","value":"Workspace switch"}
+{"key":"Reveal behavior","value":"Reveal behavior"}
+{"key":"Search prefixes","value":"Search prefixes"}
+{"key":"Hover delay (ms)","value":"Hover delay (ms)"}
+{"key":"Dashboard: Quick toggles","value":"Dashboard: Quick toggles"}
+{"key":"Auto","value":"Auto"}
+{"key":"Display a 'Locked' label on the lock screen","value":"Display a 'Locked' label on the lock screen"}
+{"key":"Last refresh: %1","value":"Last refresh: %1"}
+{"key":"Toggle Low Power Mode","value":"Toggle Low Power Mode"}
+{"key":"No local models available\n\nInstall Ollama or change `policies.ai`","value":"No local models available\n\nInstall Ollama or change `policies.ai`"}
+{"key":"Custom Palette","value":"Custom Palette"}
+{"key":"Copy the JSON below and save it to a file, or share it with others.","value":"Copy the JSON below and save it to a file, or share it with others."}
+{"key":"Monitor %1","value":"Monitor %1"}
+{"key":"Links","value":"Links"}
+{"key":"Use Fahrenheit","value":"Use Fahrenheit"}
+{"key":"Keep right sidebar loaded","value":"Keep right sidebar loaded"}
+{"key":"Not configured — likes are local only","value":"Not configured — likes are local only"}
+{"key":"Show a confirmation dialog when closing windows with Super+Q","value":"Show a confirmation dialog when closing windows with Super+Q"}
+{"key":"Work Safety","value":"Work Safety"}
+{"key":"Input","value":"Input"}
+{"key":"Overcast","value":"Overcast"}
+{"key":"Installed commit","value":"Installed commit"}
+{"key":"Seasonal","value":"Seasonal"}
+{"key":"Browse local wallpapers for a quick change","value":"Browse local wallpapers for a quick change"}
+{"key":"Toggle Bar Auto-hide","value":"Toggle Bar Auto-hide"}
+{"key":"Alt+Tab Switcher","value":"Alt+Tab Switcher"}
+{"key":"Jump to today","value":"Jump to today"}
+{"key":"Fix toggle switch handle alignment","value":"Fix toggle switch handle alignment"}
+{"key":"Switch to Cards style","value":"Switch to Cards style"}
+{"key":"Keep awake (caffeine)","value":"Keep awake (caffeine)"}
+{"key":"User agent (for services that require it)","value":"User agent (for services that require it)"}
+{"key":"Browse anime artwork from booru sites","value":"Browse anime artwork from booru sites"}
+{"key":"Why this is cool:\nFor non-0 values, it won't trigger when you reach the\nscreen corner along the horizontal edge, but it will when\nyou do along the vertical edge","value":"Why this is cool:\nFor non-0 values, it won't trigger when you reach the\nscreen corner along the horizontal edge, but it will when\nyou do along the vertical edge"}
+{"key":"Video codec","value":"Video codec"}
+{"key":"Try a different search term","value":"Try a different search term"}
+{"key":"Special thanks to the Quickshell and Niri communities.","value":"Special thanks to the Quickshell and Niri communities."}
+{"key":"Niri debug options and quick actions","value":"Niri debug options and quick actions"}
