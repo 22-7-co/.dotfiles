@@ -29,9 +29,9 @@
 //   }
 //
 //   // Output config for your specific monitor
-//   output "DP-1" {
-//       mode "3440x1440@100.000"
-//       scale 1
-//       position x=0 y=0
-//   }
+   output "eDP-1" {
+      mode "2560x1600@165.004"
+      scale 1.5
+      position x=0 y=0
+   }
 // ─────────────────────────────────────────────────────────────────────────────
